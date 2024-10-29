@@ -85,7 +85,7 @@ td.o::before {
 
 .dark td {
   background-color: #666;
-  border-color: #444;
+  border-color: #e4181840;
 }
 
 .light {
@@ -95,6 +95,6 @@ td.o::before {
 
 .light td {
   background-color: #ddd;
-  border-color: #bbb;
+  border-color: #878282dd;
 }
 
